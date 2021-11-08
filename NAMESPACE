@@ -1,0 +1,24 @@
+useDynLib("bigQF",.registration=TRUE)
+import(Matrix)
+import(methods)
+importFrom(svd, trlan.eigen, trlan.svd, extmat)
+importFrom(CompQuadForm, davies)
+importFrom(stats, pchisq,qchisq)
+importFrom(coxme, lmekin)
+importFrom("stats", "dbeta", "fitted", "pnorm", "rnorm", "uniroot",
+             "var","model.matrix")
+
+export(ssvd, seigen, pQF,  SKAT.matrixfree, sparse.matrixfree, famSKAT)
+
+S3method(print,matrixfree)
+S3method(dim,matrixfree)
+S3method(SKAT.matrixfree,default)
+S3method(SKAT.matrixfree,lm)
+S3method(SKAT.matrixfree,glm)
+S3method(SKAT.matrixfree,lmekin)
+S3method(update,famSKAT_lmekin)
+S3method(update,famSKAT_genesis)
+S3method(famSKAT,lmekin)
+S3method(famSKAT,GENESIS.nullMixedModel)
+
+
