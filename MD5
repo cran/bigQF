@@ -1,4 +1,4 @@
-b224ab5803174ff83361234738711dea *DESCRIPTION
+fb532d7675a52cb4231d5d7791413ee9 *DESCRIPTION
 7d04aa5161514a0c02759368eb1562da *NAMESPACE
 ee20489bd5e49f71a42f189f3f04d0a3 *R/famskat-genesis.R
 d2f650fe7c979c00ae39800d5df12638 *R/famskat.R
@@ -8,11 +8,11 @@ d2f650fe7c979c00ae39800d5df12638 *R/famskat.R
 07c409432288de54093d8f4a210c1fec *R/pchisqsum_Gsatt.R
 c61e1a9df8f545d442b81255b2b91006 *R/pchisqsum_liu.R
 4effa3213724d377fa6f8bab3f811b61 *R/pchisqsum_liufull.R
-d537b3a93c97e29d7f004e8a94763100 *R/pchisqsum_lmf.R
+afcca0327850ecc35eb442fdaa3f5536 *R/pchisqsum_lmf.R
 6b63941bb899a65ee70d09b47ddc7c3f *R/pchisqsum_partial.R
 d85c0a10ebb4fadd40d59509d578ac8d *R/pchisqsum_rpartial.R
 30dd06cb101c745ab03dc1bbbf895d5f *R/pchisqsum_rsvd.R
-ba149ba48e2a466e24079455375bb945 *R/pchisqsum_smf.R
+0a29fc6cc9d33b189186d1e32193b3b9 *R/pchisqsum_smf.R
 cd8c03421aac455af82a4cab785079cf *R/pchisqsum_ssvd.R
 7df8e76258bb20d1974958a5a1997b22 *R/srfht.R
 8cc33563fef5ae301adf040d06f26a66 *R/srfht2.R
@@ -20,7 +20,7 @@ ff38afb3893c1be94663a37c6e8267e1 *R/ssvd.R
 d7fbac7d7818065f7b98266721570107 *R/trace_mf.R
 81c012961882344f3b60fe22e85f6cea *R/tracefht.R
 aac42ba0a9413aff5e49f447fb206b38 *R/tracefht_liu.R
-7213fb29c68df65400aa05b72bf75f43 *build/partial.rdb
+be12310beb46beb75b09df91a0a01b44 *build/partial.rdb
 cf03d752d0fe39cd828fdd001dd3e873 *build/vignette.rds
 909fcbb3f956a004451ae660fe2edc1b *data/SKAT.example.rda
 f2ac02ae1b43914a772ab5adfb4b693f *data/seqMetaExample.rda
